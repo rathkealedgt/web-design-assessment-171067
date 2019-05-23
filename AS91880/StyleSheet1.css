@@ -1,14 +1,21 @@
 ﻿body {
-  
+    background-color: black;
+    font-family: 'Cinzel', serif;
+    margin: auto;
+}
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size:80px;
 }
 .wrapper {
     display: grid;
-    grid-template-columns: 3fr 5fr 5fr;
+    grid-template-columns: 3fr 5fr 2fr;
     grid-template-rows: auto;
-    grid-template-areas: "logo banner banner" "nav nav nav" "sidebar sidebar main " "footer footer footer";
+    grid-template-areas: " banner center logo" "nav nav nav" "main main sidebar " "footer footer footer";
     grid-gap: 4px;
 }
-/*area colouring*/
+
+/*-----------area colouring-----------*/
 .box {
     border: solid 1px #000000;
     padding: 20px;
@@ -35,8 +42,13 @@
 .footer {
     background-color: #4455aa;
 }
-/* Area Stylering */
 
+.center {
+   
+}
+/*--------- Area colouring end ---------*/
+
+/*--------- Area Stylering -------------*/
 .logo {
     grid-area: logo;
 }
@@ -45,6 +57,9 @@
     grid-area: banner;
 }
 
+.center {
+    grid-area:center;
+}
 .nav {
     grid-area: nav;
     font-size: 25px;
@@ -56,10 +71,11 @@
 }
 
 .sidebar {
-    grid-area: side;
-    im
+    grid-area: sidebar;
+    padding: 1px;
 }
 
 .footer {
     grid-area: footer;
 }
+/*--------- Area Stylering end -----------*/

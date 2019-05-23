@@ -92,10 +92,13 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\Kimy-and-donny.png" />
+    <Content Include="Images\map old.2.png" />
     <Content Include="Images\Stalina.png" />
     <Content Include="Images\UN2.0.png" />
     <Content Include="index.html" />
     <Content Include="StyleSheet1.css" />
+    <Content Include="United_States.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -117,6 +120,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="United_States.aspx.designer.vb">
+      <DependentUpon>United_States.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="United_States.aspx.vb">
+      <DependentUpon>United_States.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
