@@ -10,6 +10,7 @@
         </div>
 
         <div class="box center">
+            <h1>US Presidents </h1>
         </div>
 
         <div class="box banner">
@@ -17,30 +18,18 @@
         </div>
 
         <div class="box Nav">
-            Nav
+           <a href="index.html">Home</a>
         </div>
 
         <div class="box main">
-            Welcome to Histopia. A websit built to comemirate our fallen commrads over the the many years of human and natonial history
-            <br />Here you will find trivial facts and genral knowlage on ledders of many diffirent countrys through world history.
-            <br />
-           <br /> Slav'sya, Otechestvo nashe svobodnoye,
-            Bratskih narodov soyuz vekovoi,
-            Predkami dannaya mudrost' narodnaya!
-            Slav'sya, strana! My gordimsya toboi!
-            Ot yuzhnyh morei do polyarnogo kraya
-            Raskinulis' nashi lesa i polya.
-            Odna ty na svete! Odna ty takaya –
-            Khranimaya Bogom rodnaya zemlya!
-            Shirokii prostor dlya mechty i dlya zhizni.
-            Gryadushchiye nam otkryvayut goda.
-            Nam silu daiot nasha vernost' Otchizne.
-            Tak bylo, tak yest' i tak budet vsegda!<br />
-            <img src="Images/map old.2.png" />
+           <h2>Donald Trump </h2> <br />
+            Started out with a small lone of a million dollers 
+
+            <h2>Abraham Linkin</h2>
         </div>
 
         <div class="box sidebar">
-        <img src="Images/Stalina.png" />
+     
         <img src="Images/Kimy-and-donny.png" />
         </div>
 

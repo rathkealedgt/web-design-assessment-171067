@@ -3,79 +3,76 @@
     font-family: 'Cinzel', serif;
     margin: auto;
 }
+
 h1 {
     font-family: 'Raleway', sans-serif;
     font-size:80px;
 }
+
 .wrapper {
     display: grid;
     grid-template-columns: 3fr 5fr 2fr;
     grid-template-rows: auto;
-    grid-template-areas: " banner center logo" "nav nav nav" "main main sidebar " "footer footer footer";
+    grid-template-areas: "banner center logo" "nav nav nav" "main main sidebar " "footer footer footer";
     grid-gap: 4px;
 }
 
-/*-----------area colouring-----------*/
 .box {
     border: solid 1px #000000;
     padding: 20px;
     background-color: lightgray;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
-.logo {
-    background-color: #991122;
-}
 
-.banner {
-    background-color: #002266;
-}
-
-.main {
-    background-color: #335544;
-}
-
-.sidebar{
-    background-color:;
-}
-
-.footer {
-    background-color: #4455aa;
-}
-
-.center {
-   
-}
-/*--------- Area colouring end ---------*/
 
 /*--------- Area Stylering -------------*/
 .logo {
     grid-area: logo;
+    background-color: #991122;
+    background-image:url(Images/UN2.0.png);
+
+   
 }
 
 .banner {
     grid-area: banner;
+    background-color: #002266; 
 }
 
 .center {
     grid-area:center;
 }
+
 .nav {
     grid-area: nav;
     font-size: 25px;
     text-align: center;
+    background-color: #115522;
+    link-color
 }
 
 .main {
     grid-area: main;
+    background-color: #335544;
 }
 
 .sidebar {
     grid-area: sidebar;
     padding: 1px;
+    background-color:darkslategrey;
+    border-image-slice:fill;
 }
 
 .footer {
     grid-area: footer;
+    background-color: #4455aa;
 }
 /*--------- Area Stylering end -----------*/
+
+.nav a:visited{
+    color:black; 
+}
+.nav a:hover{
+    color:grey;
+}
