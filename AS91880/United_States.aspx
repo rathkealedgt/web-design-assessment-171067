@@ -23,18 +23,21 @@
 
         <div class="box main">
            <h2>Donald Trump </h2> <br />
-            Started out with a small lone of a million dollers 
+            Started out with a small lone of a million dollers and built up his business. Becaome a reich man who ran for pres wnating to help the avrage US worker. This man is stoping iligal imagernets helping the US economy
+            and keeping them a great power. They no longer bow down to forigenrs and submit. Thanks to th man him self. <br /> 
+           <a href="https://shop.donaldjtrump.com/" >Trump Merch, support the cause</a>
 
-            <h2>Abraham Linkin</h2>
+            <h2>Abraham Lincoln</h2>
+            The man himeself, The one who freed the slaves. But yet he owned slaves himself. Just to get at the south and runine their lively hood. Killing many Americans in  the biggest war on the American Continat.   
         </div>
 
         <div class="box sidebar">
      
-        <img src="Images/Kimy-and-donny.png" />
+        <img src="Images/Kimy-and-donny.png" /><br />
         </div>
 
         <div class="box footer">
-            footer
+           Infomation is subject personal views and belifes. Infomation may not be factual. 
         </div>
     </div>
 </body>
