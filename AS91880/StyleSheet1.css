@@ -41,7 +41,8 @@ h1 {
 }
 
 .center {
-    grid-area:center;
+    grid-area: center;
+    background-color: #991122;
 }
 
 .nav {

@@ -92,6 +92,7 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\Abraham.png" />
     <Content Include="Images\Kimy-and-donny.png" />
     <Content Include="Images\map old.2.png" />
     <Content Include="Images\Stalina.png" />
