@@ -34,6 +34,7 @@
         <div class="box sidebar">
      
         <img src="Images/Winston.jpg" /><br />
+        <img src="Images/Victoria.png" <br />
         </div>
 
         <div class="box footer">

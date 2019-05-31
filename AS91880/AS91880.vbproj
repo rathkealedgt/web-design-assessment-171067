@@ -97,8 +97,10 @@
     <Content Include="Images\map old.2.png" />
     <Content Include="Images\Stalina.png" />
     <Content Include="Images\UN2.0.png" />
+    <Content Include="Images\Victoria.png" />
     <Content Include="Images\Winston.jpg" />
     <Content Include="index.html" />
+    <Content Include="Russia.aspx" />
     <Content Include="StyleSheet1.css" />
     <Content Include="UnitedKingdom.aspx" />
     <Content Include="United_States.aspx" />
@@ -123,6 +125,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Russia.aspx.designer.vb">
+      <DependentUpon>Russia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Russia.aspx.vb">
+      <DependentUpon>Russia.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="UnitedKingdom.aspx.designer.vb">
       <DependentUpon>UnitedKingdom.aspx</DependentUpon>

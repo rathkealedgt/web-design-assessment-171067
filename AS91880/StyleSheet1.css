@@ -13,7 +13,7 @@ h1 {
     display: grid;
     grid-template-columns: 3fr 5fr 2fr;
     grid-template-rows: auto;
-    grid-template-areas: "banner center logo" "nav nav nav" "main main sidebar " "footer footer footer";
+    grid-template-areas: "banner center logo" "nav nav nav" "main main sidebar" "footer footer footer";
     grid-gap: 4px;
 }
 
