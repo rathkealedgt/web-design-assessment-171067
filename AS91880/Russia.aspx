@@ -6,7 +6,7 @@
     <div class="wrapper">
 
         <div class="box logo">
-   
+    <img src="Images/UN2.0.png"/>
         </div>
 
         <div class="box center">

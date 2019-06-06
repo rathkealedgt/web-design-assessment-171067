@@ -30,7 +30,7 @@ h1 {
 .logo {
     grid-area: logo;
     background-color: #991122;
-    background-image: url(Images/UN2.0.png);
+    background-image: url('Images/UN2.0.png');
 }
 
 .banner {

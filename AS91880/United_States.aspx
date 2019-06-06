@@ -1,6 +1,6 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="United_States.aspx.vb" Inherits="AS91880.United_States" %>
 
-    <link rel="stylesheet" type="text/css" href="StyleSheet1.css" />
+    <link rel="stylesheet" type="text/css" href="CSS_storage/CSS for US.css" />
 
 <body>
     <div class="wrapper">
