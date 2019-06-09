@@ -24,20 +24,19 @@
 
         <div class="box main">
             <h2>Vladamier Lenin </h2>
-           Who lead the Revolution in 1917 createing the Soviet Union which was only to be for about 90 years. The most Communist of them all his leadership was great and glorieus. 
+           Who lead the Revolution in 1917 creating the Soviet Union which was only to be for about 90 years. The most Communist of them all his leadership was great and glorious. 
             <h4>Rateing</h4>
             5/10 
-            I would have given him a higher rateing but he is a communist so his score is lowerd. And also the fact that communism failed in the end. But his Inspiering leadership helped Rssia Become what it is today. 
+            I would have given him a higher rating but he is a communist so his score is lowered. And also the fact that communism failed in the end. But his Inspiring leadership helped Russia Become what it is today. 
             <hr />
 
 
             <h2>Peter the 1<sup>st</sup> OF Russia</h2>
-            Peter the 1<sup>St</sup> Was one of the many great leadders of Russia. He was the one that stared it all, formed the russian nation in the 1700 hundreds. Faught the Swedish Empier during 
-            the war for Dominace in the Scandinavien area. 
+            Peter the 1<sup>st</sup> Was one of the many great leaders of Russia. He was the one that started it all, formed the Russian nation in the 1700 hundreds. Faught the Swedish Empire during the war for Dominance in the Scandinavian area. 
             <h4>Rateing</h4>
             8/10 
-            The high rateing is because he formed and started on of the largest Empiers in history. Fighting and wining many wars. 
-        </div>
+            The high rating is because he formed and started one of the largest Empires in history. Fighting and winning many wars. 
+                   </div>
 
         <div class="box sidebar">
      

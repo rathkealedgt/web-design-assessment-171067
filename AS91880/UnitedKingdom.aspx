@@ -23,21 +23,21 @@
 
         <div class="box main">
             <h2>Winston Churchill</h2>
-            The Man who Lead the UK through Hitler's Bliz, Held togeater the people against all odds of Hitlers advance. The the life boat of Eupropean freedom. But then diched by the British Parlermint.
-            Had a rough start at the begging of his correa, his idea of the Gallipolie campainge took the blame for the massive faliour and hated by the colonies for have many men killed for a cause that had failed.  
+            The Man who Lead the UK through Hitler's Bliz, Held together with the people against all odds of Hitler's advance. The lifeboat of European freedom. But then ditched by the British Parliament.
+            Had a rough start at the begging of his Correa, his idea of the Gallipoli campaign took the blame for the massive failure and hated by the colonies for having many men killed for a cause that had failed.  
 
             <h4>Rateing</h4>
             7/10<br />
-            The high rateing because how he lead the British Empier through the secound world war. But it was his idea for the Gollipolie campaing which turned out to be a faliour. 
+            The high rating because of how he lead the British Empire through the second world war. But it was his idea for the Gallipoli campaign which turned out to be a failure. 
             <hr>
 
             <h2>Queen Victoria</h2>
-            A great leadder of the world during her time, has a whole area called the Victorian era. Lead the British Empier through the majoriti of the 1800 hundreds. Expanding British influence over more of the world includeing China and India.
-            The indutrial revolution starting in Britin and helping them become a even biger superpower. Being the grandma of the English kig, Russin king and the German Kiser during the first world war. 
+            A great leader of the world during her time has a whole area called the Victorian era. Lead the British Empire through the majority of the 1800 hundreds. Expanding British influence over more of the world including China and India.
+            The industrial revolution starting in Britain and helping them become an even bigger superpower. Being the grandma of the English kings, Russin king and the German Kiser during the first world war. 
 
             <h4>Rateing</h4>
             9/10 
-            THis is becasue she is one of the most famous Mohnarcs in British histry and she has an era named after her. during the 1800 hundreds and the industrial revolution. 
+            This is because she is one of the most famous Monarchs in British history and she has an era named after her. during the 1800 hundreds and the industrial revolution. 
             </div>
 
         <div class="box sidebar">
