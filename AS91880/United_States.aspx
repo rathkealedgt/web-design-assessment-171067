@@ -1,12 +1,12 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="United_States.aspx.vb" Inherits="AS91880.United_States" %>
 
-    <link rel="stylesheet" type="text/css" href="CSS_storage/CSS for US.css" />
+    <link rel="stylesheet" type="text/css" href="/CSS_storage/StyleSheet1.css" />
 
 <body>
     <div class="wrapper">
 
         <div class="box logo">
-            <img src="Images/UN2.0.png" />
+            <img src="Images/UN2.0.png" class="center">
         </div>
 
         <div class="box center">
@@ -41,7 +41,7 @@
         <div class="box sidebar">
      
         <img src="Images/Kimy-and-donny.png" /><br />
-            <img src="Images/Abraham.png" />
+            <img src="Images/Abraham.png" class="center">
         </div>
 
         <div class="box footer">

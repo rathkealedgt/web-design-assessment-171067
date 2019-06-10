@@ -1,12 +1,11 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Russia.aspx.vb" Inherits="AS91880.Russia" %>
 
-    <link rel="stylesheet" type="text/css" href="CSS_storage/CSS for Russia.css" />
-
+  <link rel="stylesheet" type="text/css" href="/CSS_storage/StyleSheet1.css" />
 <body>
     <div class="wrapper">
 
         <div class="box logo">
-    <img src="Images/UN2.0.png"/>
+    <img src="Images/UN2.0.png"  class="center">
         </div>
 
         <div class="box center">

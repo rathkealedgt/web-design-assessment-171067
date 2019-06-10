@@ -1,17 +1,16 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="United_States.aspx.vb" Inherits="AS91880.United_States" %>
-
-    <link rel="stylesheet" type="text/css" href="CSS_storage/CSS For UK.css" />
+<link rel="stylesheet" type="text/css" href="/CSS_storage/StyleSheet1.css" />
 
 <body>
     <div class="wrapper">
 
         <div class="box logo">
-    <img src="Images/UN2.0.png"/>
+    <img src="Images/UN2.0.png" class="center">
         </div>
 
         <div class="box center">
             <h1>British Empire</h1>
-        </div>
+            </div>
 
         <div class="box banner">
             <h1>Histopia</h1>
@@ -43,7 +42,7 @@
         <div class="box sidebar">
      
         <img src="Images/Winston.jpg" /><br />
-        <img src="Images/Victoria.png" <br />
+        <img src="Images/Victoria.png" class="center" <br />
         </div>
 
         <div class="box footer">

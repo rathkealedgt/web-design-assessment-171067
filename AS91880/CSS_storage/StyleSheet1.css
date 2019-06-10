@@ -30,19 +30,24 @@ h1 {
 .logo {
     grid-area: logo;
     background-color: #991122;
-    background-image: url(Images/UN2.0.png);
-
-   
+    background-image: url(Images/UN.jpg);
+    background-size: 50px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+ 
 }
 
 .banner {
     grid-area: banner;
     background-color: #002266; 
+    text-align:center;
 }
 
 .center {
     grid-area: center;
     background-color: #991122;
+    text-align:center;
 }
 
 .nav {
@@ -61,8 +66,11 @@ h1 {
 .sidebar {
     grid-area: sidebar;
     padding: 1px;
-    background-color:darkslategrey;
-    border-image-slice:fill;
+    background-color: darkslategrey;
+
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .footer {
