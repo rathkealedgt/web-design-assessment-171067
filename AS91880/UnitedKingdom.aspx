@@ -46,7 +46,8 @@
         </div>
 
         <div class="box footer">
-           Infomation is subject personal views and belifes. Infomation may not be factual. 
+           Infomation is subject personal views and belifes. Infomation may not be factual. <br />
+            Created by Harry Burr 2019 ©
         </div>
     </div>
 </body>
