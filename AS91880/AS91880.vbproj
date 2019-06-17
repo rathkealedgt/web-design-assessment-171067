@@ -107,7 +107,7 @@
     <Content Include="Images\US flag.png" />
     <Content Include="Images\Victoria.png" />
     <Content Include="Images\Winston.jpg" />
-    <Content Include="index.html" />
+    <Content Include="Home.html" />
     <Content Include="Russia.aspx" />
     <Content Include="CSS_storage\StyleSheet1.css" />
     <Content Include="UnitedKingdom.aspx" />

@@ -5,7 +5,7 @@
     <div class="wrapper">
 
         <div class="box logo">
-    <img src="Images/UN2.0.png"  class="center">
+    <img src="Images/UN2.0.png" title="image From Google" class="center">
         </div>
 
         <div class="box center">
@@ -39,8 +39,8 @@
 
         <div class="box sidebar">
      
-        <img src="Images/Lenin .jpg" /><br />
-        <img src="Images/Russian Empier.png" <br />
+        <img src="Images/Lenin .jpg" title="From WIKI" /><br />
+        <img src="Images/Russian Empier.png" title="From WIKI" <br />
         </div>
 
         <div class="box footer">

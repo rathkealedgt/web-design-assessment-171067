@@ -5,7 +5,7 @@
     <div class="wrapper">
 
         <div class="box logo">
-    <img src="Images/UN2.0.png" class="center">
+    <img src="Images/UN2.0.png" class="center"title="image From Google" >
         </div>
 
         <div class="box center">
@@ -17,7 +17,7 @@
         </div>
 
         <div class="box Nav">
-   <a  href="index.html">Home </a>| <a href="United_States.aspx">United States</a> |     <a href="Russia.aspx">Russia </a> |
+   <a  href="Home.html">Home </a>| <a href="United_States.aspx">United States</a> |     <a href="Russia.aspx">Russia </a> |
         </div>
 
         <div class="box main">
@@ -41,8 +41,8 @@
 
         <div class="box sidebar">
      
-        <img src="Images/Winston.jpg" /><br />
-        <img src="Images/Victoria.png" class="center" <br />
+        <img src="Images/Winston.jpg" title="From WIKI"/><br />
+        <img src="Images/Victoria.png" class="center" title="From WIKI" <br />
         </div>
 
         <div class="box footer">
