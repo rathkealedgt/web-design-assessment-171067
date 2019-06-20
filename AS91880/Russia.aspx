@@ -18,7 +18,7 @@
         </div>
 
         <div class="box Nav">
-              | <a  href="index.html">Home </a>|  <a href="UnitedKingdom.aspx">United Kingdom</a> |   <a href="United_States.aspx">United States</a> 
+              | <a  href="Home.html">Home </a>|  <a href="UnitedKingdom.aspx">United Kingdom</a> |   <a href="United_States.aspx">United States</a> 
         </div>
 
         <div class="box main">
