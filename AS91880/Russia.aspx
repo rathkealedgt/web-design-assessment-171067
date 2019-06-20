@@ -5,7 +5,7 @@
     <div class="wrapper">
 
         <div class="box logo">
-    <img src="Images/UN2.0.png" title="image From Google" class="center">
+    <img src="Images/UN2.0.png" title="image From Google">
         </div>
 
         <div class="box center">

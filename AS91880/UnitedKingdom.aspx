@@ -5,7 +5,7 @@
     <div class="wrapper">
 
         <div class="box logo">
-    <img src="Images/UN2.0.png" class="center"title="image From Google" >
+    <img src="Images/UN2.0.png" title="image From Google">
         </div>
 
         <div class="box center">
@@ -41,7 +41,7 @@
 
         <div class="box sidebar">
      
-        <img src="Images/Winston.jpg" title="From WIKI"/><br />
+        <img src="Images/Winston.jpg" title="From WIKI" height="198" width="318"/><br />
         <img src="Images/Victoria.png" class="center" title="From WIKI" <br />
         </div>
 

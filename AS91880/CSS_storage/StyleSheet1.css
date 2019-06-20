@@ -30,8 +30,7 @@ h1 {
 .logo {
     grid-area: logo;
     background-color: #991122;
-    background-image: url(Images/UN.jpg);
-    background-size: 50px;
+    
 
 }
 
@@ -39,6 +38,7 @@ h1 {
     grid-area: banner;
     background-color: #002266; 
     text-align:center;
+    color:white;
 }
 
 .center {
@@ -78,4 +78,9 @@ h1 {
 }
 .nav a:hover{
     color:grey;
+}
+.logo img {
+
+height: auto;
+width: auto;
 }

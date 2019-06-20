@@ -6,7 +6,7 @@
     <div class="wrapper">
 
         <div class="box logo">
-            <img src="Images/UN2.0.png" title="image From Google" class="center">
+            <img src="Images/UN2.0.png" title="image From Google">
         </div>
 
         <div class="box center">
@@ -40,8 +40,8 @@
 
         <div class="box sidebar">
      
-        <img src="Images/Kimy-and-donny.png" title="From WIKI" /><br />
-            <img src="Images/Abraham.png" title="From WIKI" class="center">
+        <img src="Images/Kimy-and-donny.png" title="From WIKI" height="200" width="350"/><br />
+            <img src="Images/Abraham.png" title="From WIKI" class="center"  height="200" width="280">
         </div>
 
         <div class="box footer">
